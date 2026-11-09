@@ -1,0 +1,13 @@
+# Kept locally as part of the work, but not uploaded:
+
+# Raw data is not redistributed: download it from Figshare into data/ (see README)
+data/
+
+# Tables and figures written by the pipeline and the figure script
+results/
+
+# Hand-drawn pipeline diagram used by the poster
+figures/*.png
+
+__pycache__/
+*.pyc
